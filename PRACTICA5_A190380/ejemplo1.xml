@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type="text/xsl" href="D:\RESPALDO 130923\9J LSC\SERVICIOS WEB\PRACTICA5_A190380/ejemplo1.xsl"?>
+<Perros>
+<Perro>
+<raza>Labrador</raza>
+<estatura>62 centmetros </estatura>
+<color>amarillo, negro y chocolate</color>
+</Perro>
+<Perro>
+<raza>Pastor Aleman</raza>
+<estatura>65 centimetros </estatura>
+<color>pelaje negro con marcas de color tostado</color>
+</Perro>
+<Perro>
+<raza>Dachshund </raza>
+<estatura>40 centimetros </estatura>
+<color>arlequin</color>
+</Perro>
+</Perros>
